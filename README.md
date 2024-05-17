@@ -1,4 +1,5 @@
 - 👋 Hi, i’m Luis Fajardo alias pinguinaje360
+- 🇻🇪 i live in venezuela
 - 🧑‍🎓 i’m a student 
 - 👋 i’m currently learning python and javascript with their frameworks
 - 👀 I’m interested in study c++ and c# in the future
